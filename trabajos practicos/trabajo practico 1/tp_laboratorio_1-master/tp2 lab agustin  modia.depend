@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1474686138 source:c:\users\pc\desktop\utn\tp2 lab agustin  modia\funcmodiatp2.c
+	"funcmodiaTP2.h"
+
+1474681745 c:\users\pc\desktop\utn\tp2 lab agustin  modia\funcmodiatp2.h
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+
+1474686247 source:c:\users\pc\desktop\utn\tp2 lab agustin  modia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcmodiaTP2.h"
+
+1474686756 source:e:\desktop\tp2 lab agustin  modia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcmodiaTP2.h"
+
+1474681745 e:\desktop\tp2 lab agustin  modia\funcmodiatp2.h
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+
+1474687106 source:e:\desktop\tp2 lab agustin  modia\funcmodiatp2.c
+	"funcmodiaTP2.h"
+

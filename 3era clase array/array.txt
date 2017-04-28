@@ -1,0 +1,30 @@
+para declara array
+
+tipo de var nombre [cant de numeros a guardar]
+
+ej int num [10]
+
+para mostrar lugar espesifico 
+printf("%d", num [4]);
+
+ej
+
+int numeros [10];
+
+for (int i = 0; i<10; i++)
+printf("ingrese un numero");
+scanf("%d", & numeros [i]);
+
+para precargar numero
+
+ej
+
+int num [5] = {1,2,3,4,5};
+
+para escribir directo en una poscion del array ej posicion 4
+ ej
+
+int num [5];
+
+num[4] = 43;
+

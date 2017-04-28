@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1472747089 source:c:\users\pc\desktop\utn\tp 1 agustin modia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcmodia.h"
+
+1472747202 c:\users\pc\desktop\utn\tp 1 agustin modia\funcmodia.h
+
+1472914756 source:e:\nuevo\tp_laboratorio_1-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcmodia.h"
+
+1472914156 e:\nuevo\tp_laboratorio_1-master\funcmodia.h
+
+1472914782 source:f:\nuevo\tp_laboratorio_1-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcmodia.h"
+
+1472914156 f:\nuevo\tp_laboratorio_1-master\funcmodia.h
+
+1473220102 source:h:\nuevo\tp_laboratorio_1-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcmodia.h"
+
+1473218972 h:\nuevo\tp_laboratorio_1-master\funcmodia.h
+
+1473376653 source:c:\users\pc\desktop\tp_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcmodia.h"
+
+1473377208 c:\users\pc\desktop\tp_laboratorio_1\funcmodia.h
+
+1490680555 source:c:\users\molo ultrabook\desktop\utn clases nocturno\trabajos practicos\trabajo practico 1\tp_laboratorio_1-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcmodiaTP2.h"
+
+1490680555 c:\users\molo ultrabook\desktop\utn clases nocturno\trabajos practicos\trabajo practico 1\tp_laboratorio_1-master\funcmodiatp2.h
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+

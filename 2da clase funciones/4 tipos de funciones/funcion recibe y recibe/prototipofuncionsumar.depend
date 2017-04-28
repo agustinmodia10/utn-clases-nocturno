@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1490654266 source:c:\users\molo ultrabook\desktop\prototipo funciones\prototipofuncionsumar\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1490661540 source:c:\users\molo ultrabook\desktop\utn clases nocturno\2da clase funciones\4 tipos de funciones\funcion recibe y recibe\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1490661613 source:c:\users\molo ultrabook\desktop\utn clases nocturno\2da clase funciones\4 tipos de funciones\funcion recibe y recibe\funciones.c
+	"funciones.h"
+
+1490661401 c:\users\molo ultrabook\desktop\utn clases nocturno\2da clase funciones\4 tipos de funciones\funcion recibe y recibe\funciones.h
+
